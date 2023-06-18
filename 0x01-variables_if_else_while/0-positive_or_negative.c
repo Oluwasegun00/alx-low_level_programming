@@ -24,5 +24,5 @@ int main(void)
 	{
 		printf("%d is nrgative/n", n);
 	}
-	return (0)
+	return (0);
 }
