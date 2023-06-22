@@ -41,7 +41,7 @@ int main(void)
 		while (f10 > 0 && initia10s > 0)
 		{
 			printf("%i", 0);
-			initia1os--;
+			initia10s--;
 		}
 		printf("%lu", f1);
 
